@@ -1,8 +1,6 @@
 # **Abhirupa Ghosh** (she/her)
 I am a Postdoctoral Fellow in [**JRaviLab**](https://jravilab.github.io/) 
 
-👩‍💻 Currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="25" height="25"/>!
-
 ## Work location 🏢
 [**Department of Biomedical Informatics**](https://medschool.cuanschutz.edu/dbmi) in [**School of Medicine**](https://medschool.cuanschutz.edu/) of 🏫 [**University of Colorado | Anschutz Medical Campus**](https://www.cuanschutz.edu/)
 
